@@ -1,0 +1,15 @@
+package com.praticando.java;
+
+public class paciente {
+
+    public class Paciente {
+        private String nome;
+        private double peso;
+        private double altura;
+        private char sexo;
+
+        public String getNome() {
+            return nome;
+        }
+    }
+}
